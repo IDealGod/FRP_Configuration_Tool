@@ -1,0 +1,2 @@
+# FRP_Configuration_Tool
+一个使用Python开发的便于FRP配置的程序
