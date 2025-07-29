@@ -26,7 +26,7 @@
 - 从 [Releases](https://github.com/IDealGod/FRP_Configuration_Tool/releases/) 下载最新版
 - 将软件与Frpc.exe和Frpc.toml放在同一目录下
 - 运行软件即可修改配置信息
-- 
+  
 ## 贡献指南
 ### 欢迎提交 Issue 或 Pull Request！
 
@@ -38,22 +38,7 @@
 
 ## 开源协议
 ### 本项目采用 GNU General Public License v3.0 开源协议。
-``` 
-Copyright (C) 2023 Your Name
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
-```
 
 ## 信息
 
